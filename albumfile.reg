@@ -1,0 +1,18 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\.album]
+@="AlbumFile"
+"Content Type"="application/album"
+
+[HKEY_CLASSES_ROOT\AlbumFile]
+@="Album File"
+
+[HKEY_CLASSES_ROOT\AlbumFile\shell]
+
+[HKEY_CLASSES_ROOT\AlbumFile\shell\open]
+
+[HKEY_CLASSES_ROOT\AlbumFile\shell\open\command]
+@="\"C:\\Program Files\\VideoLAN\\VLC\\vlc.exe\" \"%1\""
+
+[HKEY_CLASSES_ROOT\AlbumFile\DefaultIcon]
+@="\D:\\things\\project album\\icons\\album.ico\""
