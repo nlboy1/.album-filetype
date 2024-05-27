@@ -7,22 +7,25 @@ update log:
 -removed .albz and .albr alternitives after raging lol (used to be .rar and .7zip versions of .album but vlc cant open these files so... yeah.
 
 license:
-Copyright (c) 2024 [.album project]
+Copyright may2024 .album filetype by nlboy1
+https://github.com/nlboy1/.album-filetype
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, but not to sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Restrictions
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+The user/redistributer is not allowed to:
+Sell or distribute the Software for commercial purposes;
+Secretly modify or alter the Software in any way (modifications and alterations are welcome yet please email me at edbpy@tutamail.com if you do so);
+Remove or modify any copyright notices or other proprietary notices from the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT, REMOVING LISENCE TEXT FROM FILES. 
-IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Redistribution Requirements include:
+If Licensee chooses to redistribute the Software, 
+Licensee must include the entire Software package, 
+including all files and directories, without modification or alteration. 
+Licensee must also provide a copy of this Agreement with the redistributed Software.
+
+PLEASE REMEMBER THAT:
+REDISTRIBUTION INCLUDES POSTING A COPY OF THE FILES/SOFTWARE ANYWHERE ELSE:
+MODIFICATIONS AND ALTERATIONS CAN BE USED BY ME TO ADD TO THE ORIGINAL VERSION;
+FINDING LOOPHOLES STILL ARE PUNISHABLE;
+I WILL ASK YOU PERSONALLY AND OR THE SITE WHERE IT IS PUBLISHED TO TO TAKE DOWN YOUR COPY OF THIS IF YOU BREAK THE AGREEMENTS;
+I WILL CRY IF YOU BREAK ANY OF THESE AGREEMENTS LOL.
